@@ -1,6 +1,6 @@
 # The Ziv-Lempel Algorithm 
 * Lempel–Ziv–Welch. Lempel–Ziv–Welch (LZW) is a universal lossless data compression algorithm created by **Abraham Lempel, Jacob Ziv, and Terry Welch.**  
-* Is the basis for must popular compression programs
+* Is the basis for most popular compression programs
 such as **winzip, zip or gzip.** 
 
 ## How It Works
